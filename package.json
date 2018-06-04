@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "youtube-dl": "^1.12.2"
   }
